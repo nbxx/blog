@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Hello World] (https://nbxx.github.io/blog/2017/08/26/helloworld.html)
+[Hello World](https://nbxx.github.io/blog/2017/08/26/helloworld.html)
 
 
 You can use the [editor on GitHub](https://github.com/nbxx/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
